@@ -1,3 +1,1 @@
-bug
-
-new bug is added
+bug is added 
