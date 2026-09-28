@@ -19,3 +19,4 @@ add(40,43)
 
 sub(23,11)
 mutiply(23,54)
+mutiply(34,54)
