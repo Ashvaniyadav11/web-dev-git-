@@ -5,3 +5,4 @@ function add(a,b){
 add (2,5)
 
 add(12,45)
+add(40,43)
